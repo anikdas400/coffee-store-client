@@ -5,7 +5,7 @@ import Swal from "sweetalert2";
 
 
 const CoffeeCard = ({ coffee,coffees,setCoffees }) => {
-    const { _id, name, supplier, taste, category, details, photo } = coffee
+    const { _id, name, supplier, taste, category, photo } = coffee
 
    
 
